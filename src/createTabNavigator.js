@@ -30,8 +30,8 @@ const Presets = {
     initialLayout: undefined,
   },
   AndroidTopTabs: {
-    tabBarComponent: TabBarTop,
-    tabBarPosition: 'top',
+    tabBarComponent: TabBarBottom,
+    tabBarPosition: 'bottom',
     swipeEnabled: true,
     animationEnabled: true,
     initialLayout: undefined,
